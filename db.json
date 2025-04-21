@@ -353,6 +353,40 @@
       ],
     "products": [
       { "id": 1, "name": "iPhone", "price": 999 }
+    ],
+    "testimonials": [
+      {
+        "id": 1,
+        "name": "Lina M., Product Designer at Flowcraft",
+        "org": "Designer-focused",
+        "image": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/male/512/0.jpg",
+        "text": "As a UI/UX designer, I've tried countless design systems, but ui-light hits the sweet spot between flexibility and simplicity. It keeps my workflow clean and fast without getting in the way."
+      },{
+        "id": 2,
+        "name": "Jason K., Frontend Developer",
+        "org": "Developer-focused",
+        "image": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/male/512/1.jpg",
+        "text": "ui-light is a breath of fresh air for developers. The class naming is intuitive, the setup is minimal, and it plays perfectly with modern React projects. I've never built responsive UIs this fast."
+      },{
+        "id": 3,
+        "name": " Anita S., Indie App Creator",
+        "org": "Performance-focused",
+        "image": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/male/512/2.jpg",
+        "text": "I love how lightweight and performant ui-light is. No unnecessary bloat, just the core utilities I need to build sleek interfaces. It made my apps noticeably faster!"
+      },{
+        "id": 4,
+        "name": "Daniel T., UI Team Lead at Nexlo",
+        "org": " Team collaboration angle",
+        "image": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/male/512/3.jpg",
+        "text": "Switching to ui-light helped our team streamline our UI development. Designers and developers are now totally in sync, thanks to the clean and consistent utility-first approach."
+      },{
+        "id": 5,
+        "name": "Mira L., Freelance Web Developer",
+        "org": "Minimalist vibe",
+        "image": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/male/512/4.jpg",
+        "text": "Beautifully minimal, surprisingly powerful. ui-light strips away the noise and gives you just enough to build polished UIs without overcomplication."
+      }
+
     ]
   }
   

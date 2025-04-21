@@ -352,7 +352,1756 @@
         }
       ],
     "products": [
-      { "id": 1, "name": "iPhone", "price": 999 }
+      {
+        "id": "fashion_1",
+        "name": "H&M T-Shirts - Yellow XXL",
+        "description": "Different simple mention training explain hope east. Fall bank time different condition air girl.",
+        "price": 15.85,
+        "discountPrice": 13.47,
+        "currency": "USD",
+        "images": [
+          "https://placeimg.com/551/319/any",
+          "https://placeimg.com/84/908/any"
+        ],
+        "thumbnail": "https://dummyimage.com/187x221",
+        "categoryId": "t-shirts",
+        "sku": "0105408827683",
+        "stock": 76,
+        "status": "inactive",
+        "createdAt": "2024-11-06T21:30:28",
+        "updatedAt": "2010-02-26T20:58:30",
+        "tags": [
+          "H&M",
+          "T-Shirts",
+          "Yellow",
+          "XXL"
+        ],
+        "attributes": {
+          "color": "Yellow",
+          "size": "XXL",
+          "brand": "H&M"
+        },
+        "ratings": 4.2,
+        "reviewsCount": 413,
+        "vendorId": "tony25",
+        "isFeatured": true,
+        "visibility": "public"
+      },
+      {
+        "id": "fashion_2",
+        "name": "H&M Accessories - Red XL",
+        "description": "Their through put. Growth national wife. Human friend of apply important bad act.\nPm shake fund.",
+        "price": 88.21,
+        "discountPrice": 74.98,
+        "currency": "USD",
+        "images": [
+          "https://www.lorempixel.com/997/966",
+          "https://placekitten.com/475/92"
+        ],
+        "thumbnail": "https://placeimg.com/1001/1018/any",
+        "categoryId": "accessories",
+        "sku": "7761028798616",
+        "stock": 23,
+        "status": "active",
+        "createdAt": "2011-10-05T12:52:27",
+        "updatedAt": "1989-12-02T06:08:34",
+        "tags": [
+          "H&M",
+          "Accessories",
+          "Red",
+          "XL"
+        ],
+        "attributes": {
+          "color": "Red",
+          "size": "XL",
+          "brand": "H&M"
+        },
+        "ratings": 4.1,
+        "reviewsCount": 254,
+        "vendorId": "david41",
+        "isFeatured": false,
+        "visibility": "public"
+      },
+      {
+        "id": "fashion_3",
+        "name": "Adidas Shoes - Red XL",
+        "description": "Ahead serious various serve. Issue drive analysis.",
+        "price": 138.51,
+        "discountPrice": 124.66,
+        "currency": "USD",
+        "images": [
+          "https://www.lorempixel.com/994/577",
+          "https://placeimg.com/613/795/any"
+        ],
+        "thumbnail": "https://placekitten.com/563/882",
+        "categoryId": "shoes",
+        "sku": "7431439111808",
+        "stock": 91,
+        "status": "inactive",
+        "createdAt": "2017-07-29T21:02:00",
+        "updatedAt": "1971-08-11T17:52:11",
+        "tags": [
+          "Adidas",
+          "Shoes",
+          "Red",
+          "XL"
+        ],
+        "attributes": {
+          "color": "Red",
+          "size": "XL",
+          "brand": "Adidas"
+        },
+        "ratings": 4.1,
+        "reviewsCount": 108,
+        "vendorId": "cynthia98",
+        "isFeatured": true,
+        "visibility": "public"
+      },
+      {
+        "id": "fashion_4",
+        "name": "Nike Jeans - Gray M",
+        "description": "Wish she American tax. Cover fact food cup couple figure goal her.",
+        "price": 166.65,
+        "discountPrice": 141.65,
+        "currency": "USD",
+        "images": [
+          "https://dummyimage.com/855x455",
+          "https://www.lorempixel.com/452/678"
+        ],
+        "thumbnail": "https://placekitten.com/664/698",
+        "categoryId": "jeans",
+        "sku": "8707474385146",
+        "stock": 97,
+        "status": "draft",
+        "createdAt": "2025-03-14T02:22:27",
+        "updatedAt": "1988-02-29T02:50:44",
+        "tags": [
+          "Nike",
+          "Jeans",
+          "Gray",
+          "M"
+        ],
+        "attributes": {
+          "color": "Gray",
+          "size": "M",
+          "brand": "Nike"
+        },
+        "ratings": 4.2,
+        "reviewsCount": 97,
+        "vendorId": "martinerica",
+        "isFeatured": true,
+        "visibility": "public"
+      },
+      {
+        "id": "fashion_5",
+        "name": "Levi's Jeans - Green S",
+        "description": "Picture wish rise just detail ten. Now break too help despite charge. Have my material talk.",
+        "price": 197.31,
+        "discountPrice": 197.31,
+        "currency": "USD",
+        "images": [
+          "https://dummyimage.com/7x765",
+          "https://www.lorempixel.com/133/219"
+        ],
+        "thumbnail": "https://www.lorempixel.com/562/532",
+        "categoryId": "jeans",
+        "sku": "9839194456055",
+        "stock": 43,
+        "status": "draft",
+        "createdAt": "1977-06-23T04:55:40",
+        "updatedAt": "2014-05-25T01:39:28",
+        "tags": [
+          "Levi's",
+          "Jeans",
+          "Green",
+          "S"
+        ],
+        "attributes": {
+          "color": "Green",
+          "size": "S",
+          "brand": "Levi's"
+        },
+        "ratings": 3.8,
+        "reviewsCount": 275,
+        "vendorId": "johnathan00",
+        "isFeatured": false,
+        "visibility": "public"
+      },
+      {
+        "id": "fashion_6",
+        "name": "Adidas T-Shirts - White M",
+        "description": "Race sound school kid property number. Usually you down by.",
+        "price": 27.05,
+        "discountPrice": 22.99,
+        "currency": "USD",
+        "images": [
+          "https://dummyimage.com/702x330",
+          "https://www.lorempixel.com/822/346"
+        ],
+        "thumbnail": "https://placeimg.com/463/363/any",
+        "categoryId": "t-shirts",
+        "sku": "6231448560724",
+        "stock": 17,
+        "status": "draft",
+        "createdAt": "2017-11-24T04:54:35",
+        "updatedAt": "1977-08-05T04:06:30",
+        "tags": [
+          "Adidas",
+          "T-Shirts",
+          "White",
+          "M"
+        ],
+        "attributes": {
+          "color": "White",
+          "size": "M",
+          "brand": "Adidas"
+        },
+        "ratings": 3.9,
+        "reviewsCount": 20,
+        "vendorId": "paulbrown",
+        "isFeatured": false,
+        "visibility": "public"
+      },
+      {
+        "id": "fashion_7",
+        "name": "Nike T-Shirts - Red S",
+        "description": "After understand happy wife collection. Today physical draw according require.",
+        "price": 297.4,
+        "discountPrice": 267.66,
+        "currency": "USD",
+        "images": [
+          "https://www.lorempixel.com/40/807",
+          "https://placekitten.com/770/845"
+        ],
+        "thumbnail": "https://placekitten.com/593/842",
+        "categoryId": "t-shirts",
+        "sku": "7228685215752",
+        "stock": 69,
+        "status": "active",
+        "createdAt": "2023-04-25T05:21:52",
+        "updatedAt": "1996-12-04T11:45:56",
+        "tags": [
+          "Nike",
+          "T-Shirts",
+          "Red",
+          "S"
+        ],
+        "attributes": {
+          "color": "Red",
+          "size": "S",
+          "brand": "Nike"
+        },
+        "ratings": 3.5,
+        "reviewsCount": 308,
+        "vendorId": "vanessa30",
+        "isFeatured": false,
+        "visibility": "public"
+      },
+      {
+        "id": "fashion_8",
+        "name": "Adidas Jeans - Green L",
+        "description": "Small member service window rise prepare nor. Why western respond bank. Same picture over perform.",
+        "price": 135.36,
+        "discountPrice": 121.82,
+        "currency": "USD",
+        "images": [
+          "https://dummyimage.com/548x950",
+          "https://www.lorempixel.com/672/209"
+        ],
+        "thumbnail": "https://www.lorempixel.com/571/481",
+        "categoryId": "jeans",
+        "sku": "4763456852383",
+        "stock": 34,
+        "status": "active",
+        "createdAt": "1983-07-19T03:31:20",
+        "updatedAt": "2015-10-02T18:11:24",
+        "tags": [
+          "Adidas",
+          "Jeans",
+          "Green",
+          "L"
+        ],
+        "attributes": {
+          "color": "Green",
+          "size": "L",
+          "brand": "Adidas"
+        },
+        "ratings": 3.8,
+        "reviewsCount": 217,
+        "vendorId": "john18",
+        "isFeatured": true,
+        "visibility": "public"
+      },
+      {
+        "id": "fashion_9",
+        "name": "Nike Shoes - Black S",
+        "description": "Conference although ask unit about.",
+        "price": 225.21,
+        "discountPrice": 213.95,
+        "currency": "USD",
+        "images": [
+          "https://placekitten.com/841/297",
+          "https://placeimg.com/621/480/any"
+        ],
+        "thumbnail": "https://placeimg.com/925/610/any",
+        "categoryId": "shoes",
+        "sku": "8745067814499",
+        "stock": 30,
+        "status": "inactive",
+        "createdAt": "2000-12-22T13:01:41",
+        "updatedAt": "2010-06-09T08:05:25",
+        "tags": [
+          "Nike",
+          "Shoes",
+          "Black",
+          "S"
+        ],
+        "attributes": {
+          "color": "Black",
+          "size": "S",
+          "brand": "Nike"
+        },
+        "ratings": 4.2,
+        "reviewsCount": 418,
+        "vendorId": "zsparks",
+        "isFeatured": false,
+        "visibility": "public"
+      },
+      {
+        "id": "fashion_10",
+        "name": "Gucci Jackets - Yellow XXL",
+        "description": "Accept truth be. Summer cell of letter appear guess early.",
+        "price": 237.94,
+        "discountPrice": 202.25,
+        "currency": "USD",
+        "images": [
+          "https://dummyimage.com/977x377",
+          "https://placekitten.com/534/892"
+        ],
+        "thumbnail": "https://placekitten.com/36/489",
+        "categoryId": "jackets",
+        "sku": "6065095252400",
+        "stock": 91,
+        "status": "draft",
+        "createdAt": "2018-03-26T09:28:08",
+        "updatedAt": "1986-08-02T09:54:26",
+        "tags": [
+          "Gucci",
+          "Jackets",
+          "Yellow",
+          "XXL"
+        ],
+        "attributes": {
+          "color": "Yellow",
+          "size": "XXL",
+          "brand": "Gucci"
+        },
+        "ratings": 3.1,
+        "reviewsCount": 340,
+        "vendorId": "mcmahoncurtis",
+        "isFeatured": false,
+        "visibility": "public"
+      },
+      {
+        "id": "fashion_11",
+        "name": "Levi's Accessories - Black L",
+        "description": "And story citizen participant he certain perhaps. Mean whether player.",
+        "price": 196.64,
+        "discountPrice": 157.31,
+        "currency": "USD",
+        "images": [
+          "https://placekitten.com/17/351",
+          "https://placeimg.com/556/727/any"
+        ],
+        "thumbnail": "https://dummyimage.com/684x472",
+        "categoryId": "accessories",
+        "sku": "8338290539217",
+        "stock": 27,
+        "status": "draft",
+        "createdAt": "2024-02-17T10:02:04",
+        "updatedAt": "2008-01-12T09:24:26",
+        "tags": [
+          "Levi's",
+          "Accessories",
+          "Black",
+          "L"
+        ],
+        "attributes": {
+          "color": "Black",
+          "size": "L",
+          "brand": "Levi's"
+        },
+        "ratings": 4.2,
+        "reviewsCount": 145,
+        "vendorId": "brownmarilyn",
+        "isFeatured": true,
+        "visibility": "public"
+      },
+      {
+        "id": "fashion_12",
+        "name": "Gucci Jeans - Gray S",
+        "description": "Decade decide six majority. Clear always issue same exactly cell structure.",
+        "price": 104.1,
+        "discountPrice": 98.89,
+        "currency": "USD",
+        "images": [
+          "https://placeimg.com/688/833/any",
+          "https://placeimg.com/338/153/any"
+        ],
+        "thumbnail": "https://www.lorempixel.com/335/69",
+        "categoryId": "jeans",
+        "sku": "6040765512787",
+        "stock": 63,
+        "status": "draft",
+        "createdAt": "2019-08-11T16:16:54",
+        "updatedAt": "1980-05-21T17:49:15",
+        "tags": [
+          "Gucci",
+          "Jeans",
+          "Gray",
+          "S"
+        ],
+        "attributes": {
+          "color": "Gray",
+          "size": "S",
+          "brand": "Gucci"
+        },
+        "ratings": 3.8,
+        "reviewsCount": 95,
+        "vendorId": "caitlin70",
+        "isFeatured": true,
+        "visibility": "public"
+      },
+      {
+        "id": "fashion_13",
+        "name": "Uniqlo Jeans - Gray L",
+        "description": "Land baby conference major none sell teacher. Floor for time than three.",
+        "price": 285.59,
+        "discountPrice": 271.31,
+        "currency": "USD",
+        "images": [
+          "https://dummyimage.com/894x658",
+          "https://dummyimage.com/558x426"
+        ],
+        "thumbnail": "https://placekitten.com/132/99",
+        "categoryId": "jeans",
+        "sku": "1692460388638",
+        "stock": 12,
+        "status": "draft",
+        "createdAt": "1970-09-12T19:19:58",
+        "updatedAt": "1971-05-03T04:28:31",
+        "tags": [
+          "Uniqlo",
+          "Jeans",
+          "Gray",
+          "L"
+        ],
+        "attributes": {
+          "color": "Gray",
+          "size": "L",
+          "brand": "Uniqlo"
+        },
+        "ratings": 4.3,
+        "reviewsCount": 89,
+        "vendorId": "bmoore",
+        "isFeatured": true,
+        "visibility": "public"
+      },
+      {
+        "id": "fashion_14",
+        "name": "Nike Jackets - Gray M",
+        "description": "Realize control thus weight again will take he. Only mission will.",
+        "price": 29.61,
+        "discountPrice": 29.61,
+        "currency": "USD",
+        "images": [
+          "https://placekitten.com/491/670",
+          "https://placekitten.com/201/668"
+        ],
+        "thumbnail": "https://placekitten.com/935/444",
+        "categoryId": "jackets",
+        "sku": "5739055837815",
+        "stock": 47,
+        "status": "inactive",
+        "createdAt": "2007-10-23T12:09:31",
+        "updatedAt": "2016-03-02T05:30:30",
+        "tags": [
+          "Nike",
+          "Jackets",
+          "Gray",
+          "M"
+        ],
+        "attributes": {
+          "color": "Gray",
+          "size": "M",
+          "brand": "Nike"
+        },
+        "ratings": 3.1,
+        "reviewsCount": 466,
+        "vendorId": "kevinsummers",
+        "isFeatured": true,
+        "visibility": "public"
+      },
+      {
+        "id": "fashion_15",
+        "name": "Adidas T-Shirts - White XXL",
+        "description": "Operation billion environment write rich a. Her travel them smile follow. Foot break general.",
+        "price": 36.49,
+        "discountPrice": 34.67,
+        "currency": "USD",
+        "images": [
+          "https://placekitten.com/559/481",
+          "https://placeimg.com/865/923/any"
+        ],
+        "thumbnail": "https://www.lorempixel.com/756/632",
+        "categoryId": "t-shirts",
+        "sku": "3028898374727",
+        "stock": 42,
+        "status": "draft",
+        "createdAt": "1977-10-05T14:16:46",
+        "updatedAt": "2002-11-12T10:48:38",
+        "tags": [
+          "Adidas",
+          "T-Shirts",
+          "White",
+          "XXL"
+        ],
+        "attributes": {
+          "color": "White",
+          "size": "XXL",
+          "brand": "Adidas"
+        },
+        "ratings": 3.1,
+        "reviewsCount": 241,
+        "vendorId": "ubarnett",
+        "isFeatured": true,
+        "visibility": "public"
+      },
+      {
+        "id": "fashion_16",
+        "name": "Uniqlo Accessories - Red M",
+        "description": "Raise never factor church different. Forward space wife more those front.",
+        "price": 117.84,
+        "discountPrice": 106.06,
+        "currency": "USD",
+        "images": [
+          "https://placeimg.com/808/220/any",
+          "https://placeimg.com/112/737/any"
+        ],
+        "thumbnail": "https://dummyimage.com/732x998",
+        "categoryId": "accessories",
+        "sku": "6478931268136",
+        "stock": 65,
+        "status": "draft",
+        "createdAt": "1979-05-17T18:23:49",
+        "updatedAt": "1970-11-25T18:02:07",
+        "tags": [
+          "Uniqlo",
+          "Accessories",
+          "Red",
+          "M"
+        ],
+        "attributes": {
+          "color": "Red",
+          "size": "M",
+          "brand": "Uniqlo"
+        },
+        "ratings": 4.2,
+        "reviewsCount": 380,
+        "vendorId": "bartlettmargaret",
+        "isFeatured": false,
+        "visibility": "public"
+      },
+      {
+        "id": "fashion_17",
+        "name": "H&M T-Shirts - White M",
+        "description": "Both party house affect tough. Risk number draw but fact.",
+        "price": 285.05,
+        "discountPrice": 285.05,
+        "currency": "USD",
+        "images": [
+          "https://placeimg.com/255/728/any",
+          "https://placeimg.com/720/422/any"
+        ],
+        "thumbnail": "https://placeimg.com/241/356/any",
+        "categoryId": "t-shirts",
+        "sku": "3178830952558",
+        "stock": 39,
+        "status": "active",
+        "createdAt": "2024-05-22T01:11:59",
+        "updatedAt": "2009-12-08T10:26:41",
+        "tags": [
+          "H&M",
+          "T-Shirts",
+          "White",
+          "M"
+        ],
+        "attributes": {
+          "color": "White",
+          "size": "M",
+          "brand": "H&M"
+        },
+        "ratings": 4.0,
+        "reviewsCount": 146,
+        "vendorId": "rodrigueznoah",
+        "isFeatured": false,
+        "visibility": "public"
+      },
+      {
+        "id": "fashion_18",
+        "name": "Levi's Shoes - Green L",
+        "description": "Article TV discuss. Or themselves reason any herself six season.",
+        "price": 28.07,
+        "discountPrice": 28.07,
+        "currency": "USD",
+        "images": [
+          "https://placeimg.com/631/745/any",
+          "https://placekitten.com/70/479"
+        ],
+        "thumbnail": "https://placeimg.com/739/943/any",
+        "categoryId": "shoes",
+        "sku": "8954017501475",
+        "stock": 24,
+        "status": "draft",
+        "createdAt": "2022-05-17T16:41:24",
+        "updatedAt": "2009-09-30T15:49:52",
+        "tags": [
+          "Levi's",
+          "Shoes",
+          "Green",
+          "L"
+        ],
+        "attributes": {
+          "color": "Green",
+          "size": "L",
+          "brand": "Levi's"
+        },
+        "ratings": 3.3,
+        "reviewsCount": 335,
+        "vendorId": "brandifuentes",
+        "isFeatured": false,
+        "visibility": "public"
+      },
+      {
+        "id": "fashion_19",
+        "name": "Adidas Jackets - Blue XXL",
+        "description": "Material he weight yes adult. Instead report time factor. Particularly dream threat just.",
+        "price": 86.03,
+        "discountPrice": 68.82,
+        "currency": "USD",
+        "images": [
+          "https://placekitten.com/914/272",
+          "https://placekitten.com/392/496"
+        ],
+        "thumbnail": "https://www.lorempixel.com/508/495",
+        "categoryId": "jackets",
+        "sku": "9925610374925",
+        "stock": 33,
+        "status": "active",
+        "createdAt": "1998-02-26T21:16:00",
+        "updatedAt": "2020-05-27T01:44:53",
+        "tags": [
+          "Adidas",
+          "Jackets",
+          "Blue",
+          "XXL"
+        ],
+        "attributes": {
+          "color": "Blue",
+          "size": "XXL",
+          "brand": "Adidas"
+        },
+        "ratings": 3.3,
+        "reviewsCount": 424,
+        "vendorId": "leonardmichael",
+        "isFeatured": false,
+        "visibility": "public"
+      },
+      {
+        "id": "fashion_20",
+        "name": "Gucci Jackets - Black M",
+        "description": "Cover to argue public study write him. Half yard so around.",
+        "price": 274.12,
+        "discountPrice": 274.12,
+        "currency": "USD",
+        "images": [
+          "https://placekitten.com/352/563",
+          "https://dummyimage.com/111x716"
+        ],
+        "thumbnail": "https://dummyimage.com/508x778",
+        "categoryId": "jackets",
+        "sku": "4236528530941",
+        "stock": 30,
+        "status": "inactive",
+        "createdAt": "2005-06-25T08:50:02",
+        "updatedAt": "1982-07-01T07:57:34",
+        "tags": [
+          "Gucci",
+          "Jackets",
+          "Black",
+          "M"
+        ],
+        "attributes": {
+          "color": "Black",
+          "size": "M",
+          "brand": "Gucci"
+        },
+        "ratings": 3.4,
+        "reviewsCount": 407,
+        "vendorId": "tschmitt",
+        "isFeatured": false,
+        "visibility": "public"
+      },
+      {
+        "id": "fashion_21",
+        "name": "Levi's Jackets - Blue XL",
+        "description": "Believe three structure almost however issue scientist difficult.",
+        "price": 41.72,
+        "discountPrice": 37.55,
+        "currency": "USD",
+        "images": [
+          "https://dummyimage.com/901x705",
+          "https://placeimg.com/117/690/any"
+        ],
+        "thumbnail": "https://placekitten.com/4/951",
+        "categoryId": "jackets",
+        "sku": "2949336084996",
+        "stock": 42,
+        "status": "active",
+        "createdAt": "1988-03-30T16:01:38",
+        "updatedAt": "1979-12-07T22:08:21",
+        "tags": [
+          "Levi's",
+          "Jackets",
+          "Blue",
+          "XL"
+        ],
+        "attributes": {
+          "color": "Blue",
+          "size": "XL",
+          "brand": "Levi's"
+        },
+        "ratings": 4.3,
+        "reviewsCount": 134,
+        "vendorId": "mariah53",
+        "isFeatured": false,
+        "visibility": "public"
+      },
+      {
+        "id": "fashion_22",
+        "name": "H&M Jackets - Blue M",
+        "description": "Participant party pass bad. Raise tell hour few. Office daughter final media western chair.",
+        "price": 150.05,
+        "discountPrice": 127.54,
+        "currency": "USD",
+        "images": [
+          "https://www.lorempixel.com/653/683",
+          "https://placekitten.com/369/133"
+        ],
+        "thumbnail": "https://placekitten.com/781/256",
+        "categoryId": "jackets",
+        "sku": "5288227738448",
+        "stock": 1,
+        "status": "inactive",
+        "createdAt": "1988-12-08T21:41:30",
+        "updatedAt": "2004-09-03T01:02:36",
+        "tags": [
+          "H&M",
+          "Jackets",
+          "Blue",
+          "M"
+        ],
+        "attributes": {
+          "color": "Blue",
+          "size": "M",
+          "brand": "H&M"
+        },
+        "ratings": 3.2,
+        "reviewsCount": 429,
+        "vendorId": "phillipsmichael",
+        "isFeatured": false,
+        "visibility": "public"
+      },
+      {
+        "id": "fashion_23",
+        "name": "Adidas Jackets - Black M",
+        "description": "Near even important exactly last. Sometimes leader back during drug.",
+        "price": 56.36,
+        "discountPrice": 56.36,
+        "currency": "USD",
+        "images": [
+          "https://placekitten.com/270/555",
+          "https://placekitten.com/473/751"
+        ],
+        "thumbnail": "https://www.lorempixel.com/180/998",
+        "categoryId": "jackets",
+        "sku": "8531725109904",
+        "stock": 37,
+        "status": "active",
+        "createdAt": "1987-11-11T20:05:07",
+        "updatedAt": "1973-11-09T19:39:24",
+        "tags": [
+          "Adidas",
+          "Jackets",
+          "Black",
+          "M"
+        ],
+        "attributes": {
+          "color": "Black",
+          "size": "M",
+          "brand": "Adidas"
+        },
+        "ratings": 4.7,
+        "reviewsCount": 338,
+        "vendorId": "boonenatasha",
+        "isFeatured": false,
+        "visibility": "public"
+      },
+      {
+        "id": "fashion_24",
+        "name": "Levi's Shoes - Gray S",
+        "description": "Old yeah produce could eye. Account through now lay.",
+        "price": 158.61,
+        "discountPrice": 126.89,
+        "currency": "USD",
+        "images": [
+          "https://placeimg.com/788/193/any",
+          "https://placeimg.com/546/595/any"
+        ],
+        "thumbnail": "https://placekitten.com/687/170",
+        "categoryId": "shoes",
+        "sku": "5239087489063",
+        "stock": 23,
+        "status": "inactive",
+        "createdAt": "1986-05-29T07:07:55",
+        "updatedAt": "1988-06-09T08:49:17",
+        "tags": [
+          "Levi's",
+          "Shoes",
+          "Gray",
+          "S"
+        ],
+        "attributes": {
+          "color": "Gray",
+          "size": "S",
+          "brand": "Levi's"
+        },
+        "ratings": 4.9,
+        "reviewsCount": 16,
+        "vendorId": "michaelmonroe",
+        "isFeatured": true,
+        "visibility": "public"
+      },
+      {
+        "id": "fashion_25",
+        "name": "Levi's Accessories - Blue L",
+        "description": "Past participant state his instead. Sure reason business news. Course often table various phone.",
+        "price": 133.17,
+        "discountPrice": 106.54,
+        "currency": "USD",
+        "images": [
+          "https://www.lorempixel.com/91/966",
+          "https://placekitten.com/580/379"
+        ],
+        "thumbnail": "https://dummyimage.com/345x489",
+        "categoryId": "accessories",
+        "sku": "3532520608567",
+        "stock": 13,
+        "status": "draft",
+        "createdAt": "2011-06-24T18:48:15",
+        "updatedAt": "1991-10-25T01:38:08",
+        "tags": [
+          "Levi's",
+          "Accessories",
+          "Blue",
+          "L"
+        ],
+        "attributes": {
+          "color": "Blue",
+          "size": "L",
+          "brand": "Levi's"
+        },
+        "ratings": 4.3,
+        "reviewsCount": 84,
+        "vendorId": "bwebb",
+        "isFeatured": true,
+        "visibility": "public"
+      },
+      {
+        "id": "fashion_26",
+        "name": "H&M Jeans - Yellow M",
+        "description": "Tonight many design nature. Miss need college rest culture treat particular.",
+        "price": 254.11,
+        "discountPrice": 215.99,
+        "currency": "USD",
+        "images": [
+          "https://www.lorempixel.com/526/708",
+          "https://www.lorempixel.com/743/631"
+        ],
+        "thumbnail": "https://placekitten.com/341/636",
+        "categoryId": "jeans",
+        "sku": "0241225445133",
+        "stock": 54,
+        "status": "inactive",
+        "createdAt": "2013-08-27T07:42:36",
+        "updatedAt": "2016-10-25T07:22:19",
+        "tags": [
+          "H&M",
+          "Jeans",
+          "Yellow",
+          "M"
+        ],
+        "attributes": {
+          "color": "Yellow",
+          "size": "M",
+          "brand": "H&M"
+        },
+        "ratings": 3.1,
+        "reviewsCount": 316,
+        "vendorId": "jocelyn77",
+        "isFeatured": false,
+        "visibility": "public"
+      },
+      {
+        "id": "fashion_27",
+        "name": "Nike Jeans - Blue XL",
+        "description": "Push this authority.",
+        "price": 10.09,
+        "discountPrice": 10.09,
+        "currency": "USD",
+        "images": [
+          "https://www.lorempixel.com/704/558",
+          "https://dummyimage.com/258x380"
+        ],
+        "thumbnail": "https://www.lorempixel.com/457/539",
+        "categoryId": "jeans",
+        "sku": "2736533931914",
+        "stock": 7,
+        "status": "active",
+        "createdAt": "1992-02-19T11:39:53",
+        "updatedAt": "1971-04-17T13:13:14",
+        "tags": [
+          "Nike",
+          "Jeans",
+          "Blue",
+          "XL"
+        ],
+        "attributes": {
+          "color": "Blue",
+          "size": "XL",
+          "brand": "Nike"
+        },
+        "ratings": 3.5,
+        "reviewsCount": 484,
+        "vendorId": "moyerkevin",
+        "isFeatured": true,
+        "visibility": "public"
+      },
+      {
+        "id": "fashion_28",
+        "name": "Zara Jeans - Gray S",
+        "description": "Anything garden gas cup.",
+        "price": 102.62,
+        "discountPrice": 87.23,
+        "currency": "USD",
+        "images": [
+          "https://www.lorempixel.com/704/783",
+          "https://placekitten.com/591/312"
+        ],
+        "thumbnail": "https://placeimg.com/771/766/any",
+        "categoryId": "jeans",
+        "sku": "1452313653524",
+        "stock": 76,
+        "status": "active",
+        "createdAt": "2011-02-07T10:00:00",
+        "updatedAt": "1989-07-24T14:56:02",
+        "tags": [
+          "Zara",
+          "Jeans",
+          "Gray",
+          "S"
+        ],
+        "attributes": {
+          "color": "Gray",
+          "size": "S",
+          "brand": "Zara"
+        },
+        "ratings": 4.9,
+        "reviewsCount": 113,
+        "vendorId": "gailtorres",
+        "isFeatured": false,
+        "visibility": "public"
+      },
+      {
+        "id": "fashion_29",
+        "name": "Adidas Shoes - White S",
+        "description": "Serve push trial account land grow plant heart. Current measure imagine put discover.",
+        "price": 96.46,
+        "discountPrice": 81.99,
+        "currency": "USD",
+        "images": [
+          "https://www.lorempixel.com/541/262",
+          "https://dummyimage.com/667x532"
+        ],
+        "thumbnail": "https://placekitten.com/471/430",
+        "categoryId": "shoes",
+        "sku": "0084244518811",
+        "stock": 29,
+        "status": "active",
+        "createdAt": "1988-07-05T14:53:02",
+        "updatedAt": "2008-10-11T14:46:21",
+        "tags": [
+          "Adidas",
+          "Shoes",
+          "White",
+          "S"
+        ],
+        "attributes": {
+          "color": "White",
+          "size": "S",
+          "brand": "Adidas"
+        },
+        "ratings": 4.4,
+        "reviewsCount": 186,
+        "vendorId": "msimmons",
+        "isFeatured": false,
+        "visibility": "public"
+      },
+      {
+        "id": "fashion_30",
+        "name": "Uniqlo Shoes - Blue S",
+        "description": "Give course reason rock require what firm standard. Only manage stand possible.",
+        "price": 187.12,
+        "discountPrice": 177.76,
+        "currency": "USD",
+        "images": [
+          "https://dummyimage.com/211x338",
+          "https://placeimg.com/685/331/any"
+        ],
+        "thumbnail": "https://www.lorempixel.com/267/695",
+        "categoryId": "shoes",
+        "sku": "2187798164829",
+        "stock": 77,
+        "status": "inactive",
+        "createdAt": "1998-10-11T03:42:15",
+        "updatedAt": "2007-02-22T16:52:36",
+        "tags": [
+          "Uniqlo",
+          "Shoes",
+          "Blue",
+          "S"
+        ],
+        "attributes": {
+          "color": "Blue",
+          "size": "S",
+          "brand": "Uniqlo"
+        },
+        "ratings": 4.3,
+        "reviewsCount": 418,
+        "vendorId": "dustin57",
+        "isFeatured": false,
+        "visibility": "public"
+      },
+      {
+        "id": "fashion_31",
+        "name": "Uniqlo T-Shirts - Blue M",
+        "description": "Focus probably western side imagine for.\nShow everybody memory place girl candidate.",
+        "price": 57.03,
+        "discountPrice": 54.18,
+        "currency": "USD",
+        "images": [
+          "https://placeimg.com/212/265/any",
+          "https://placeimg.com/257/425/any"
+        ],
+        "thumbnail": "https://placeimg.com/408/638/any",
+        "categoryId": "t-shirts",
+        "sku": "7611523879078",
+        "stock": 15,
+        "status": "active",
+        "createdAt": "2012-08-19T20:28:02",
+        "updatedAt": "2010-01-23T13:22:14",
+        "tags": [
+          "Uniqlo",
+          "T-Shirts",
+          "Blue",
+          "M"
+        ],
+        "attributes": {
+          "color": "Blue",
+          "size": "M",
+          "brand": "Uniqlo"
+        },
+        "ratings": 3.9,
+        "reviewsCount": 475,
+        "vendorId": "stevencohen",
+        "isFeatured": true,
+        "visibility": "public"
+      },
+      {
+        "id": "fashion_32",
+        "name": "Uniqlo Accessories - Gray XL",
+        "description": "Whom computer recognize board.",
+        "price": 284.71,
+        "discountPrice": 284.71,
+        "currency": "USD",
+        "images": [
+          "https://placeimg.com/717/769/any",
+          "https://dummyimage.com/726x372"
+        ],
+        "thumbnail": "https://placekitten.com/932/959",
+        "categoryId": "accessories",
+        "sku": "8139851194551",
+        "stock": 95,
+        "status": "active",
+        "createdAt": "2002-07-06T05:46:42",
+        "updatedAt": "2001-09-09T21:35:21",
+        "tags": [
+          "Uniqlo",
+          "Accessories",
+          "Gray",
+          "XL"
+        ],
+        "attributes": {
+          "color": "Gray",
+          "size": "XL",
+          "brand": "Uniqlo"
+        },
+        "ratings": 5.0,
+        "reviewsCount": 208,
+        "vendorId": "dawsonkristina",
+        "isFeatured": false,
+        "visibility": "public"
+      },
+      {
+        "id": "fashion_33",
+        "name": "Uniqlo Jackets - Black L",
+        "description": "More mention finally thousand. Audience player health feeling impact sister.",
+        "price": 212.15,
+        "discountPrice": 212.15,
+        "currency": "USD",
+        "images": [
+          "https://dummyimage.com/344x866",
+          "https://www.lorempixel.com/680/783"
+        ],
+        "thumbnail": "https://placekitten.com/709/831",
+        "categoryId": "jackets",
+        "sku": "3259900926485",
+        "stock": 23,
+        "status": "inactive",
+        "createdAt": "2012-07-18T21:22:30",
+        "updatedAt": "2007-12-06T04:35:23",
+        "tags": [
+          "Uniqlo",
+          "Jackets",
+          "Black",
+          "L"
+        ],
+        "attributes": {
+          "color": "Black",
+          "size": "L",
+          "brand": "Uniqlo"
+        },
+        "ratings": 4.6,
+        "reviewsCount": 125,
+        "vendorId": "robertkent",
+        "isFeatured": true,
+        "visibility": "public"
+      },
+      {
+        "id": "fashion_34",
+        "name": "Nike Jeans - Yellow L",
+        "description": "Seek sort goal box us life travel. Game themselves at fish.",
+        "price": 126.76,
+        "discountPrice": 126.76,
+        "currency": "USD",
+        "images": [
+          "https://dummyimage.com/564x958",
+          "https://dummyimage.com/147x758"
+        ],
+        "thumbnail": "https://www.lorempixel.com/240/964",
+        "categoryId": "jeans",
+        "sku": "1420133567253",
+        "stock": 38,
+        "status": "active",
+        "createdAt": "1978-11-16T22:03:53",
+        "updatedAt": "2023-06-16T14:10:40",
+        "tags": [
+          "Nike",
+          "Jeans",
+          "Yellow",
+          "L"
+        ],
+        "attributes": {
+          "color": "Yellow",
+          "size": "L",
+          "brand": "Nike"
+        },
+        "ratings": 4.2,
+        "reviewsCount": 336,
+        "vendorId": "stephenperry",
+        "isFeatured": false,
+        "visibility": "public"
+      },
+      {
+        "id": "fashion_35",
+        "name": "Zara Shoes - Gray S",
+        "description": "Exactly finally arm party. Speech wife color future. Election stuff imagine assume thus specific.",
+        "price": 227.07,
+        "discountPrice": 181.66,
+        "currency": "USD",
+        "images": [
+          "https://placekitten.com/486/340",
+          "https://placekitten.com/400/168"
+        ],
+        "thumbnail": "https://dummyimage.com/1013x965",
+        "categoryId": "shoes",
+        "sku": "0185000905095",
+        "stock": 25,
+        "status": "inactive",
+        "createdAt": "2001-03-05T13:31:39",
+        "updatedAt": "2011-09-13T20:06:30",
+        "tags": [
+          "Zara",
+          "Shoes",
+          "Gray",
+          "S"
+        ],
+        "attributes": {
+          "color": "Gray",
+          "size": "S",
+          "brand": "Zara"
+        },
+        "ratings": 3.7,
+        "reviewsCount": 158,
+        "vendorId": "lewisashley",
+        "isFeatured": false,
+        "visibility": "public"
+      },
+      {
+        "id": "fashion_36",
+        "name": "Levi's T-Shirts - Gray S",
+        "description": "Music discussion little nor resource himself.",
+        "price": 116.58,
+        "discountPrice": 110.75,
+        "currency": "USD",
+        "images": [
+          "https://placekitten.com/424/47",
+          "https://dummyimage.com/814x961"
+        ],
+        "thumbnail": "https://placekitten.com/950/405",
+        "categoryId": "t-shirts",
+        "sku": "7445212002214",
+        "stock": 46,
+        "status": "inactive",
+        "createdAt": "1996-12-27T12:51:32",
+        "updatedAt": "2000-09-21T07:45:45",
+        "tags": [
+          "Levi's",
+          "T-Shirts",
+          "Gray",
+          "S"
+        ],
+        "attributes": {
+          "color": "Gray",
+          "size": "S",
+          "brand": "Levi's"
+        },
+        "ratings": 4.5,
+        "reviewsCount": 292,
+        "vendorId": "boltonjulie",
+        "isFeatured": true,
+        "visibility": "public"
+      },
+      {
+        "id": "fashion_37",
+        "name": "Gucci Shoes - Green S",
+        "description": "Another Mr them enjoy card third road. Would especially create follow almost and.",
+        "price": 256.01,
+        "discountPrice": 204.81,
+        "currency": "USD",
+        "images": [
+          "https://placeimg.com/365/500/any",
+          "https://dummyimage.com/467x625"
+        ],
+        "thumbnail": "https://www.lorempixel.com/881/231",
+        "categoryId": "shoes",
+        "sku": "4526110433171",
+        "stock": 15,
+        "status": "draft",
+        "createdAt": "1999-09-22T23:10:55",
+        "updatedAt": "1979-12-11T01:17:26",
+        "tags": [
+          "Gucci",
+          "Shoes",
+          "Green",
+          "S"
+        ],
+        "attributes": {
+          "color": "Green",
+          "size": "S",
+          "brand": "Gucci"
+        },
+        "ratings": 3.9,
+        "reviewsCount": 393,
+        "vendorId": "stephengreer",
+        "isFeatured": true,
+        "visibility": "public"
+      },
+      {
+        "id": "fashion_38",
+        "name": "Gucci Accessories - White L",
+        "description": "Party food represent.",
+        "price": 283.33,
+        "discountPrice": 255.0,
+        "currency": "USD",
+        "images": [
+          "https://placeimg.com/904/959/any",
+          "https://placekitten.com/277/687"
+        ],
+        "thumbnail": "https://placekitten.com/881/726",
+        "categoryId": "accessories",
+        "sku": "2423609838597",
+        "stock": 82,
+        "status": "draft",
+        "createdAt": "2004-01-27T07:31:43",
+        "updatedAt": "1974-06-06T11:35:35",
+        "tags": [
+          "Gucci",
+          "Accessories",
+          "White",
+          "L"
+        ],
+        "attributes": {
+          "color": "White",
+          "size": "L",
+          "brand": "Gucci"
+        },
+        "ratings": 4.0,
+        "reviewsCount": 66,
+        "vendorId": "jonesdavid",
+        "isFeatured": true,
+        "visibility": "public"
+      },
+      {
+        "id": "fashion_39",
+        "name": "Uniqlo Jeans - Black XXL",
+        "description": "Majority treat claim fast week season. Sort training economic their leave improve.",
+        "price": 60.06,
+        "discountPrice": 54.05,
+        "currency": "USD",
+        "images": [
+          "https://dummyimage.com/157x129",
+          "https://dummyimage.com/332x475"
+        ],
+        "thumbnail": "https://placekitten.com/333/43",
+        "categoryId": "jeans",
+        "sku": "1328166601404",
+        "stock": 70,
+        "status": "inactive",
+        "createdAt": "2002-09-12T05:46:07",
+        "updatedAt": "2017-12-01T11:33:07",
+        "tags": [
+          "Uniqlo",
+          "Jeans",
+          "Black",
+          "XXL"
+        ],
+        "attributes": {
+          "color": "Black",
+          "size": "XXL",
+          "brand": "Uniqlo"
+        },
+        "ratings": 4.5,
+        "reviewsCount": 213,
+        "vendorId": "brandon43",
+        "isFeatured": false,
+        "visibility": "public"
+      },
+      {
+        "id": "fashion_40",
+        "name": "Adidas Jackets - Red L",
+        "description": "Compare politics experience art field. Scene lot of very hospital investment section.",
+        "price": 124.0,
+        "discountPrice": 105.4,
+        "currency": "USD",
+        "images": [
+          "https://dummyimage.com/114x138",
+          "https://placekitten.com/752/520"
+        ],
+        "thumbnail": "https://placekitten.com/585/503",
+        "categoryId": "jackets",
+        "sku": "9012463981414",
+        "stock": 1,
+        "status": "active",
+        "createdAt": "2014-01-09T05:38:13",
+        "updatedAt": "1986-01-03T09:54:21",
+        "tags": [
+          "Adidas",
+          "Jackets",
+          "Red",
+          "L"
+        ],
+        "attributes": {
+          "color": "Red",
+          "size": "L",
+          "brand": "Adidas"
+        },
+        "ratings": 4.6,
+        "reviewsCount": 161,
+        "vendorId": "iclark",
+        "isFeatured": true,
+        "visibility": "public"
+      },
+      {
+        "id": "fashion_41",
+        "name": "Nike Jeans - White M",
+        "description": "Other agreement bag word least other. Charge former front hold free woman plan.",
+        "price": 210.98,
+        "discountPrice": 200.43,
+        "currency": "USD",
+        "images": [
+          "https://www.lorempixel.com/196/136",
+          "https://dummyimage.com/339x372"
+        ],
+        "thumbnail": "https://dummyimage.com/227x254",
+        "categoryId": "jeans",
+        "sku": "5297441753823",
+        "stock": 26,
+        "status": "draft",
+        "createdAt": "1982-06-01T20:45:57",
+        "updatedAt": "2009-10-23T06:18:13",
+        "tags": [
+          "Nike",
+          "Jeans",
+          "White",
+          "M"
+        ],
+        "attributes": {
+          "color": "White",
+          "size": "M",
+          "brand": "Nike"
+        },
+        "ratings": 4.7,
+        "reviewsCount": 32,
+        "vendorId": "garzasteven",
+        "isFeatured": true,
+        "visibility": "public"
+      },
+      {
+        "id": "fashion_42",
+        "name": "Zara Jeans - Black XXL",
+        "description": "Toward on officer spring bit learn. Very account hotel.",
+        "price": 131.82,
+        "discountPrice": 118.64,
+        "currency": "USD",
+        "images": [
+          "https://www.lorempixel.com/96/490",
+          "https://placeimg.com/718/79/any"
+        ],
+        "thumbnail": "https://www.lorempixel.com/42/1019",
+        "categoryId": "jeans",
+        "sku": "4630017327256",
+        "stock": 29,
+        "status": "active",
+        "createdAt": "1995-09-12T19:39:05",
+        "updatedAt": "2008-11-30T02:40:17",
+        "tags": [
+          "Zara",
+          "Jeans",
+          "Black",
+          "XXL"
+        ],
+        "attributes": {
+          "color": "Black",
+          "size": "XXL",
+          "brand": "Zara"
+        },
+        "ratings": 3.3,
+        "reviewsCount": 485,
+        "vendorId": "ariana73",
+        "isFeatured": true,
+        "visibility": "public"
+      },
+      {
+        "id": "fashion_43",
+        "name": "Uniqlo Shoes - Yellow XXL",
+        "description": "Money statement produce leg size past one. Around majority right do fill. Threat develop voice own.",
+        "price": 186.3,
+        "discountPrice": 167.67,
+        "currency": "USD",
+        "images": [
+          "https://www.lorempixel.com/19/506",
+          "https://www.lorempixel.com/302/636"
+        ],
+        "thumbnail": "https://placeimg.com/3/656/any",
+        "categoryId": "shoes",
+        "sku": "2103049988587",
+        "stock": 1,
+        "status": "active",
+        "createdAt": "2012-02-15T23:38:44",
+        "updatedAt": "1982-03-10T19:02:16",
+        "tags": [
+          "Uniqlo",
+          "Shoes",
+          "Yellow",
+          "XXL"
+        ],
+        "attributes": {
+          "color": "Yellow",
+          "size": "XXL",
+          "brand": "Uniqlo"
+        },
+        "ratings": 5.0,
+        "reviewsCount": 476,
+        "vendorId": "guzmanshane",
+        "isFeatured": true,
+        "visibility": "public"
+      },
+      {
+        "id": "fashion_44",
+        "name": "Zara Accessories - Green L",
+        "description": "Near various ground want. Early example newspaper will scene.",
+        "price": 82.46,
+        "discountPrice": 65.97,
+        "currency": "USD",
+        "images": [
+          "https://dummyimage.com/733x940",
+          "https://placekitten.com/981/1024"
+        ],
+        "thumbnail": "https://www.lorempixel.com/779/543",
+        "categoryId": "accessories",
+        "sku": "9785607573867",
+        "stock": 68,
+        "status": "active",
+        "createdAt": "1978-02-13T06:44:38",
+        "updatedAt": "1982-09-06T10:18:10",
+        "tags": [
+          "Zara",
+          "Accessories",
+          "Green",
+          "L"
+        ],
+        "attributes": {
+          "color": "Green",
+          "size": "L",
+          "brand": "Zara"
+        },
+        "ratings": 3.4,
+        "reviewsCount": 325,
+        "vendorId": "eharmon",
+        "isFeatured": false,
+        "visibility": "public"
+      },
+      {
+        "id": "fashion_45",
+        "name": "H&M Jackets - Green XXL",
+        "description": "Reality you red. Lead concern he card cut strategy.",
+        "price": 292.71,
+        "discountPrice": 292.71,
+        "currency": "USD",
+        "images": [
+          "https://dummyimage.com/107x839",
+          "https://dummyimage.com/969x81"
+        ],
+        "thumbnail": "https://placekitten.com/819/990",
+        "categoryId": "jackets",
+        "sku": "3054934808802",
+        "stock": 29,
+        "status": "inactive",
+        "createdAt": "1984-12-16T01:17:33",
+        "updatedAt": "1970-08-23T22:54:52",
+        "tags": [
+          "H&M",
+          "Jackets",
+          "Green",
+          "XXL"
+        ],
+        "attributes": {
+          "color": "Green",
+          "size": "XXL",
+          "brand": "H&M"
+        },
+        "ratings": 4.0,
+        "reviewsCount": 118,
+        "vendorId": "chelseylara",
+        "isFeatured": true,
+        "visibility": "public"
+      },
+      {
+        "id": "fashion_46",
+        "name": "Nike Jackets - White S",
+        "description": "Low realize agree night.",
+        "price": 121.0,
+        "discountPrice": 96.8,
+        "currency": "USD",
+        "images": [
+          "https://dummyimage.com/159x100",
+          "https://www.lorempixel.com/537/483"
+        ],
+        "thumbnail": "https://placekitten.com/518/6",
+        "categoryId": "jackets",
+        "sku": "6948233047680",
+        "stock": 94,
+        "status": "draft",
+        "createdAt": "1996-01-16T07:28:19",
+        "updatedAt": "1976-11-15T03:19:03",
+        "tags": [
+          "Nike",
+          "Jackets",
+          "White",
+          "S"
+        ],
+        "attributes": {
+          "color": "White",
+          "size": "S",
+          "brand": "Nike"
+        },
+        "ratings": 4.5,
+        "reviewsCount": 342,
+        "vendorId": "james26",
+        "isFeatured": true,
+        "visibility": "public"
+      },
+      {
+        "id": "fashion_47",
+        "name": "Gucci Jeans - White S",
+        "description": "Question arrive month. Full company truth policy structure avoid.",
+        "price": 54.85,
+        "discountPrice": 46.62,
+        "currency": "USD",
+        "images": [
+          "https://placekitten.com/43/921",
+          "https://dummyimage.com/213x89"
+        ],
+        "thumbnail": "https://www.lorempixel.com/341/439",
+        "categoryId": "jeans",
+        "sku": "4013059901842",
+        "stock": 15,
+        "status": "active",
+        "createdAt": "2020-09-16T11:44:05",
+        "updatedAt": "2006-02-04T03:17:35",
+        "tags": [
+          "Gucci",
+          "Jeans",
+          "White",
+          "S"
+        ],
+        "attributes": {
+          "color": "White",
+          "size": "S",
+          "brand": "Gucci"
+        },
+        "ratings": 3.2,
+        "reviewsCount": 285,
+        "vendorId": "nmitchell",
+        "isFeatured": false,
+        "visibility": "public"
+      },
+      {
+        "id": "fashion_48",
+        "name": "Zara Jackets - Gray M",
+        "description": "Look exactly laugh themselves ago. Vote born option sing improve while spring.",
+        "price": 280.43,
+        "discountPrice": 238.37,
+        "currency": "USD",
+        "images": [
+          "https://www.lorempixel.com/387/618",
+          "https://www.lorempixel.com/878/761"
+        ],
+        "thumbnail": "https://placeimg.com/987/2/any",
+        "categoryId": "jackets",
+        "sku": "3689671323549",
+        "stock": 94,
+        "status": "draft",
+        "createdAt": "2013-08-23T16:04:10",
+        "updatedAt": "2022-08-25T16:42:43",
+        "tags": [
+          "Zara",
+          "Jackets",
+          "Gray",
+          "M"
+        ],
+        "attributes": {
+          "color": "Gray",
+          "size": "M",
+          "brand": "Zara"
+        },
+        "ratings": 3.2,
+        "reviewsCount": 141,
+        "vendorId": "brenda00",
+        "isFeatured": true,
+        "visibility": "public"
+      },
+      {
+        "id": "fashion_49",
+        "name": "Adidas Shoes - Gray S",
+        "description": "Mind join usually another begin from including. School throw quickly until usually structure.",
+        "price": 122.67,
+        "discountPrice": 104.27,
+        "currency": "USD",
+        "images": [
+          "https://www.lorempixel.com/278/420",
+          "https://placeimg.com/266/83/any"
+        ],
+        "thumbnail": "https://dummyimage.com/471x523",
+        "categoryId": "shoes",
+        "sku": "2570029869448",
+        "stock": 73,
+        "status": "active",
+        "createdAt": "1974-02-10T08:02:59",
+        "updatedAt": "2005-02-27T21:56:51",
+        "tags": [
+          "Adidas",
+          "Shoes",
+          "Gray",
+          "S"
+        ],
+        "attributes": {
+          "color": "Gray",
+          "size": "S",
+          "brand": "Adidas"
+        },
+        "ratings": 4.7,
+        "reviewsCount": 59,
+        "vendorId": "jessica54",
+        "isFeatured": true,
+        "visibility": "public"
+      },
+      {
+        "id": "fashion_50",
+        "name": "Zara T-Shirts - Black XL",
+        "description": "Fly character tough respond next before already. Middle do family according catch affect road.",
+        "price": 238.05,
+        "discountPrice": 202.34,
+        "currency": "USD",
+        "images": [
+          "https://dummyimage.com/339x656",
+          "https://placekitten.com/329/137"
+        ],
+        "thumbnail": "https://dummyimage.com/906x740",
+        "categoryId": "t-shirts",
+        "sku": "5165124232029",
+        "stock": 8,
+        "status": "draft",
+        "createdAt": "2016-01-09T09:12:58",
+        "updatedAt": "2006-05-23T22:48:35",
+        "tags": [
+          "Zara",
+          "T-Shirts",
+          "Black",
+          "XL"
+        ],
+        "attributes": {
+          "color": "Black",
+          "size": "XL",
+          "brand": "Zara"
+        },
+        "ratings": 3.3,
+        "reviewsCount": 369,
+        "vendorId": "daniel37",
+        "isFeatured": false,
+        "visibility": "public"
+      }
     ],
     "testimonials": [
       {
@@ -387,6 +2136,28 @@
         "text": "Beautifully minimal, surprisingly powerful. ui-light strips away the noise and gives you just enough to build polished UIs without overcomplication."
       }
 
+    ],
+    "entities": [
+      {
+        "id": 1,
+        "name": "users",
+        "data": [
+          {
+            "createdAt": "2025-04-18T19:18:32.680Z",
+            "name": "Simon Price PhD",
+            "image": "https://cdn.jsdelivr.net/gh/faker-js/assets-person-portrait/male/512/36.jpg",
+            "email": "Darrick.Renner91@example.net"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "name": "products"
+      },
+      {
+        "id": 3,
+        "name": "testimonials"
+      }
     ]
   }
   

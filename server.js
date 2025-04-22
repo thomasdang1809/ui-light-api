@@ -32,9 +32,9 @@ server.post('/posts', (req, res) => {
   if (!db[name]) {
     db[name] = [];
     writeDB(db);
-    return res.status(201).json({ message: `Entity '${name}' created.` });
+    return res.status(201).json({ message: `Entity abcd '${name}' created.` });
   } else {
-    return res.status(400).json({ error: 'Entity already exists' });
+    return res.status(400).json({ error: 'Entity already exists SDS' });
   }
 });
 

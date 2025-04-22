@@ -20,6 +20,9 @@
   },
   "homepage": "https://github.com/thomasdang1809/ui-light-api#readme",
   "dependencies": {
+    "body-parser": "^2.2.0",
+    "cors": "^2.8.5",
+    "express": "^5.1.0",
     "json-server": "^0.17.4"
   }
 }

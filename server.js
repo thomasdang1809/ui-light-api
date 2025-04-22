@@ -26,7 +26,7 @@ function writeDB(data) {
 }
 
 // POST /entities -> tạo entity mới (nếu chưa có)
-server.post('/entities', (req, res) => {
+server.post('/posts', (req, res) => {
   const { name } = req.body;
   const db = readDB();
   if (!db[name]) {
@@ -39,7 +39,7 @@ server.post('/entities', (req, res) => {
 });
 
 // POST /entities/:name -> thêm dữ liệu vào entity
-server.post('/entities/:name', (req, res) => {
+server.post('/posts/:name', (req, res) => {
   const entity = req.params.name;
   const db = readDB();
 

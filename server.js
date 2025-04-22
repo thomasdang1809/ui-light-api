@@ -62,5 +62,5 @@ server.use(router);
 
 // Start server
 server.listen(PORT, () => {
-  console.log(`🚀 Server is running at http://localhost:${PORT}`);
+  console.log(`🚀 Server is running at https://ui-light-api.onrender.com/:${PORT}`);
 });

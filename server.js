@@ -26,20 +26,20 @@ function writeDB(data) {
 }
 
 // POST /entities -> tạo entity mới (nếu chưa có)
-server.post('/posts', (req, res) => {
+server.post('/entities', (req, res) => {
   const { name } = req.body;
   const db = readDB();
   if (!db[name]) {
     db[name] = [];
     writeDB(db);
-    return res.status(201).json({ message: `Entity abcd '${name}' created.` });
+    return res.status(201).json({ message: `Entity '${name}' created.` });
   } else {
-    return res.status(400).json({ error: 'Entity already exists SDS' });
+    return res.status(400).json({ error: 'Entity already exists' });
   }
 });
 
 // POST /entities/:name -> thêm dữ liệu vào entity
-server.post('/posts/:name', (req, res) => {
+server.post('/entities/:name', (req, res) => {
   const entity = req.params.name;
   const db = readDB();
 
@@ -62,5 +62,5 @@ server.use(router);
 
 // Start server
 server.listen(PORT, () => {
-  console.log(`🚀 Server is running at https://ui-light-api.onrender.com/:${PORT}`);
+  console.log(`🚀 Server is running at http://localhost:${PORT}`);
 });
